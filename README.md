@@ -1,5 +1,5 @@
 # docker_resources
-Docker resources for a data scientist lost in translation
+Docker resources for a data scientist lost in translation.
 
 ## Videos
 
@@ -7,3 +7,4 @@ Docker resources for a data scientist lost in translation
 - Docker Compose in 12 min ([video](https://youtu.be/Qw9zlE3t8Ko))
 - Docker for Novices ([video](https://youtu.be/lS1RLNqflUQ) and [repo](https://github.com/dockerfornovices/DockerSimpleDemo))
 - Docker Tutorial for Beginners ([video](https://youtu.be/fqMOX6JJhGo))
+- How to Get Started with Dockeer ([video](https://youtu.be/iqqDU2crIEQ))
