@@ -10,3 +10,4 @@ Docker resources for a data scientist lost in translation.
 - How to Get Started with Docker ([video](https://youtu.be/iqqDU2crIEQ))
 - Data Science Workflows Using Docker Containers ([repo](https://github.com/alysivji/talks/tree/master/data-science-workflows-using-docker-containers), includes talk and slides)
 - Docker for Data Science Tutorial ([repo](https://github.com/docker-for-data-science/docker-for-data-science-tutorial), includes talk and slides)
+- Why You Need to Containerize Machine Learning Models ([video](https://youtu.be/7-7p6WuDtbs))
