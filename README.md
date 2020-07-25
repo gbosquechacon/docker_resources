@@ -1,5 +1,5 @@
 # docker_resources
-Docker resources for a data scientist lost in translation.
+Docker and Jenkins resources for a data scientist lost in translation.
 
 ## Docker
 
